@@ -5,7 +5,7 @@ namespace Database\Seeders;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 
-class ControlvanaSeeder extends Seeder
+class ControlvacunaSeeder extends Seeder
 {
     /**
      * Run the database seeds.
